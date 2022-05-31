@@ -24,13 +24,7 @@
       <artifactId>junit</artifactId>
       <version>4.11</version>
       <scope>test</scope>
-      <configuration>
-                <archive>
-                    <manifest>
-                        <mainClass>com.xyzwebapp.app.App</mainClass>
-                    </manifest>
-                </archive>
-            </configuration>
+
     </dependency>
   </dependencies>
 
